@@ -41,17 +41,17 @@ $form->draw();
 /* == SAÍDA:
 
 <form action="" method="post">
-	<div class="form_row">
-		<label for="">E-mail:</label>
-		<input type="text" name="email" value="">
-	</div>
-	<div class="form_row">
-		<label for="">Senha:</label>
-		<input type="password" name="senha" value="">
-	</div>
-	<div class="form_row">
-		<input type="submit" name="submit" value="Enviar">
-	</div>
+    <div class="form_row">
+        <label for="">E-mail:</label>
+        <input type="text" name="email" value="">
+    </div>
+    <div class="form_row">
+        <label for="">Senha:</label>
+        <input type="password" name="senha" value="">
+    </div>
+    <div class="form_row">
+        <input type="submit" name="submit" value="Enviar">
+    </div>
 </form>
 
 */
