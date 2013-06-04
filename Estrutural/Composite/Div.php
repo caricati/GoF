@@ -18,7 +18,7 @@ class Div extends ViewComponent {
     /**
      * Método construtor
      * @param string $class Define o valor do atributo class HTML
-     * @param unknown_type $id Define o valor do atributo id HTML
+     * @param string $id Define o valor do atributo id HTML
      */
     public function __construct($class = '') {
         $this->class = $class;
